@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Buxpxti",
+    "slug": "zzproject",
+    "version": "4.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.Akobirdev.buxpxti"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a12b1c4b-b9cd-43a8-9ac8-29ea210ac51e"
+      }
+    },
+    "runtimeVersion": "4.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/a12b1c4b-b9cd-43a8-9ac8-29ea210ac51e"
+    }
+  }
+}
